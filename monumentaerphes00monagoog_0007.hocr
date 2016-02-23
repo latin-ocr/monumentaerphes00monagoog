@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentaerphes00monagoog_0007.png"; bbox 0 0 3136 4990; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 531 1102 1089 1221">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 531 1102 1089 1221">
+     <span class='ocr_line' id='line_1_1' title="bbox 531 1102 1089 1221; baseline 0.004 -2"><span class='ocrx_word' id='word_1_1' title='bbox 531 1102 1089 1221; x_wconf 85' lang='lat' dir='ltr'><strong>MONUMENTA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 251 1477 1311 1614">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 251 1477 1311 1614">
+     <span class='ocr_line' id='line_1_2' title="bbox 251 1477 1311 1614; baseline -0.002 -2"><span class='ocrx_word' id='word_1_2' title='bbox 251 1477 1311 1614; x_wconf 84' lang='lat' dir='ltr'>ERPHESFURTENSIA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 444 1811 1120 1962">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 444 1811 1120 1962">
+     <span class='ocr_line' id='line_1_3' title="bbox 444 1811 1120 1962; baseline 0.003 -2"><span class='ocrx_word' id='word_1_3' title='bbox 444 1811 651 1960; x_wconf 71' lang='lat' dir='ltr'><strong>&#39;sAEo</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 681 1865 791 1960; x_wconf 77' lang='grc' dir='ltr'><strong>ΧΠ.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 821 1864 959 1961; x_wconf 85' lang='lat' dir='ltr'><strong>xffl.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 989 1866 1120 1962; x_wconf 80' lang='lat' dir='ltr'><strong>xlv.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 735 2383 868 2440">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 735 2383 868 2440">
+     <span class='ocr_line' id='line_1_4' title="bbox 735 2383 868 2440; baseline -0.008 0"><span class='ocrx_word' id='word_1_7' title='bbox 735 2383 868 2440; x_wconf 79' lang='lat' dir='ltr'><strong>EDIDIT</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 418 2665 1180 2744">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 418 2665 1180 2744">
+     <span class='ocr_line' id='line_1_5' title="bbox 418 2665 1180 2744; baseline 0.001 -2"><span class='ocrx_word' id='word_1_8' title='bbox 418 2665 704 2743; x_wconf 85' lang='lat' dir='ltr'>OSWALDUS</span> <span class='ocrx_word' id='word_1_9' title='bbox 739 2666 1180 2744; x_wconf 79' lang='lat' dir='ltr'><strong>HOLDER-EGGER.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 409 4149 1188 4343">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 409 4149 1188 4343">
+     <span class='ocr_line' id='line_1_6' title="bbox 500 4149 1105 4216; baseline 0.007 -4"><span class='ocrx_word' id='word_1_10' title='bbox 500 4149 823 4215; x_wconf 79' lang='lat' dir='ltr'><strong>HANNOVERAE</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 847 4156 897 4212; x_wconf 80' lang='grc' dir='ltr'><strong>ΕΤ</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 920 4151 1105 4216; x_wconf 77' lang='lat' dir='ltr'>LIPSIAE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 409 4283 1188 4343; baseline 0.006 -5"><span class='ocrx_word' id='word_1_13' title='bbox 409 4283 624 4340; x_wconf 78' lang='lat' dir='ltr'><strong>IMPENSIS</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 649 4285 931 4341; x_wconf 85' lang='lat' dir='ltr'>BIBLIOPOLII</span> <span class='ocrx_word' id='word_1_15' title='bbox 956 4285 1188 4343; x_wconf 83' lang='lat' dir='ltr'><strong>HAHNIANI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 753 4421 847 4479">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 753 4421 847 4479">
+     <span class='ocr_line' id='line_1_8' title="bbox 753 4421 847 4479; baseline 0.011 -1"><span class='ocrx_word' id='word_1_16' title='bbox 753 4421 847 4479; x_wconf 83' lang='grc'><strong>1899.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 0 0 1572 4990">
+    <p class='ocr_par' dir='ltr' id='par_1_8' title="bbox 0 0 1572 4990">
+     <span class='ocr_line' id='line_1_9' title="bbox 0 0 1572 4990; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 1572 4990; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
